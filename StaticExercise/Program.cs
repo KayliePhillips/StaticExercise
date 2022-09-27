@@ -1,12 +1,13 @@
 ﻿
 using StaticExercise;
 
+TempConverter.FahrenheitToCelsius(32);
 TempConverter.FahrenheitToCelsius(85);
-TempConverter.FahrenheitToCelsius(30);
+TempConverter.FahrenheitToCelsius(26);
 
-TempConverter.CelsiusToFahrenheit(25);
+TempConverter.CelsiusToFahrenheit(100);
 TempConverter.CelsiusToFahrenheit(50);
-
+TempConverter.CelsiusToFahrenheit(85);
 
 //Tests
 //Given 85 F should return 29.444 c
